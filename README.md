@@ -5,7 +5,13 @@ The aim of this project is to create a debugging tool to help debug problems in 
 
 Building
 ------------
-Run this command from the root:
+Run these commands from the root dir
+Build
   ```code
-  $ coffee -o dist/ -cwb src/
+  $ cake build
+  ```
+
+Watch and compile
+  ```code
+  $ cake watch
   ```
