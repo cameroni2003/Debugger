@@ -1,11 +1,11 @@
-Debugger
+#Debugger
 ========
 
 The aim of this project is to create a debugging tool to help debug problems in compiled apps.
 
-Building
-------------
-Run these commands from the root dir
+##Compiling
+
+###Run these commands from the root dir
 Build
   ```code
   $ cake build
